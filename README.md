@@ -8,9 +8,10 @@
 
 Загруженные файлы:
 
-1) ZAS dataset project preprocessing
-2) ZAS dataset project analytics
-3) Презентация
+1) ZAS dataset project full code
+2) Preprocessing 
+3) Analytics
+4) Презентация
 
 
 
